@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T15:18:42.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="jrEf691o62bL4W93eMR1" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T15:26:13.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="iu5uy0sHV-Y7OXs7Jx27" version="14.9.8" type="github">
   <diagram id="lkhqYN3q01pNEpYUq4vx" name="Page-1">
     <mxGraphModel dx="1852" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -747,6 +747,24 @@
         </mxCell>
         <mxCell id="USP_9mEqmEUjSbpP8-R_-232" value="&lt;font color=&quot;#ff3333&quot;&gt;Th slack&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="800" y="-660" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="USP_9mEqmEUjSbpP8-R_-233" value="" style="endArrow=classic;html=1;fontSize=18;strokeWidth=2;strokeColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="-560" as="sourcePoint" />
+            <mxPoint x="640" y="-600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USP_9mEqmEUjSbpP8-R_-234" value="" style="endArrow=classic;html=1;fontSize=18;strokeWidth=2;strokeColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799.58" y="-560" as="sourcePoint" />
+            <mxPoint x="799.58" y="-600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="USP_9mEqmEUjSbpP8-R_-235" value="&lt;b&gt;发射沿&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="605" y="-555" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="USP_9mEqmEUjSbpP8-R_-236" value="&lt;b&gt;采样沿&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="765" y="-635" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
