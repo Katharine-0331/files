@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T15:59:06.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="BW8HQwhC1ZK-CFxEyR88" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-15T16:01:59.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="yjrO0f7X6CN1adwySyi-" version="18.0.4" type="github">
   <diagram id="jXaNnU9WBbs-hRgU_72k" name="Page-1">
     <mxGraphModel dx="640" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,10 +161,10 @@
         <mxCell id="43LiQiZvyMIUir7U2u6s-37" value="触点坐标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="460" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="43LiQiZvyMIUir7U2u6s-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF0000;strokeColor=#A680B8;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="43LiQiZvyMIUir7U2u6s-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF0000;strokeColor=#7EA6E0;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="120" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="43LiQiZvyMIUir7U2u6s-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF0000;strokeColor=#A680B8;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="43LiQiZvyMIUir7U2u6s-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF0000;strokeColor=#7EA6E0;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="120" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="43LiQiZvyMIUir7U2u6s-40" value="第二帧图像坐标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
@@ -190,6 +190,9 @@
         </mxCell>
         <mxCell id="43LiQiZvyMIUir7U2u6s-45" value="两帧图像的触点坐标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="650" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="43LiQiZvyMIUir7U2u6s-46" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;多触点跟踪：&lt;br&gt;“聚类+匈牙利算法”&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="780" y="185" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
