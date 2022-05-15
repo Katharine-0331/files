@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T15:40:44.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="gbge1xWEHpZNlRCyOGGy" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-15T15:42:30.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="f8vipTB15Ceo17DjJaZy" version="18.0.4" type="github">
   <diagram id="jXaNnU9WBbs-hRgU_72k" name="Page-1">
     <mxGraphModel dx="640" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,12 @@
         </mxCell>
         <mxCell id="43LiQiZvyMIUir7U2u6s-17" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;触点坐标回归网络&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="230" y="290" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="43LiQiZvyMIUir7U2u6s-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#A680B8;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="43LiQiZvyMIUir7U2u6s-19" value="&lt;b&gt;触摸事件检测&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="345" y="525" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
