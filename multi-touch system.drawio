@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T17:54:55.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="h2-D1H5oVk4eyzuizVbE" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T17:56:05.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="_5P7r-nwjYNj7JvRe8-X" version="18.0.5" type="github">
   <diagram id="jXaNnU9WBbs-hRgU_72k" name="Page-1">
     <mxGraphModel dx="768" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -277,6 +277,9 @@
         </mxCell>
         <mxCell id="toahtwVh1Y7KSI_jJUF0-12" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;结束&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#DDEAFF;" vertex="1" parent="1">
           <mxGeometry x="1550" y="40" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="toahtwVh1Y7KSI_jJUF0-14" value="构造加权二分图子函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="-510" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
